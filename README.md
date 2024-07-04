@@ -42,3 +42,31 @@ To run the application, execute the following command:
 
 ```bash
 python wifi_password_retrieval.py
+```
+
+This will open the GUI application.
+
+## Usage
+
+### 1.	Main GUI:
+The main interface allows you to scan for the active WiFi network's password or all saved WiFi networks' passwords. You can also save the displayed passwords to a file or clear the text area.
+
+### 2.	Active WiFi Network Password:
+Click on the "Scan Active WiFi" button to fetch and display the password of the currently active WiFi network.
+
+### 3.	Saved WiFi Networks Passwords:
+Click on the "Scan Saved WiFi" button to fetch and display the passwords of all saved WiFi networks on your system.
+
+### Saving Passwords
+To save the displayed passwords to a file, click on the "Save Passwords" button. The passwords will be appended to a file named passwords.txt.
+
+### Clearing Passwords
+To clear the displayed passwords from the text area, click on the "Clear Passwords" button.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
