@@ -44,7 +44,7 @@ This will open the GUI application.
 
 ### 1.	Main GUI:
 The main interface allows you to scan for the active WiFi network's password or all saved WiFi networks' passwords. You can also save the displayed passwords to a file or clear the text area.
-![Main GUI](images/wifi_scanner.png)
+![Main GUI](wifi_scanner.png)
 
 ### 2.	Active WiFi Network Password:
 Click on the "Scan Active WiFi" button to fetch and display the password of the currently active WiFi network.
